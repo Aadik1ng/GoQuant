@@ -1,0 +1,9 @@
+build/
+test/
+websocketpp/
+refs/
+api_key.txt
+api_secret.txt
+deribit_endpoints.txt
+deribit_endpoints_detailed_2.txt
+refresh_token.txt
