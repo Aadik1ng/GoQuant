@@ -31,8 +31,8 @@ This project is a C++ client for interacting with the Deribit API, supporting bo
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Aadik1ng/GoQuant.git
+   cd GoQuant
    ```
 
 2. **Build the project**:
